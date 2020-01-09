@@ -39,13 +39,13 @@ Login, Login Error, Forgot Password Screen.
 <th>Forgot Password</th>
   <tr>
     <td>
-      <img src="Screenshot/Login Page.png" width=250 />
+      <img src="Screenshot/login_page.png" width=250 />
     </td>
     <td>
-      <img src="Screenshot/Wrong Password.png" width=250 />
+      <img src="Screenshot/wrong_password.png" width=250 />
     </td>
     <td>
-      <img src="Screenshot/Forgot Password.png" width=250 />
+      <img src="Screenshot/forgot_password.png" width=250 />
     </td>
     </tr>
 </table>
@@ -97,10 +97,10 @@ Login, Login Error, Forgot Password Screen.
 <th>Client Registration</th>
   <tr>
     <td>
-      <img src="Screenshot/User Registration.png" width=280 />
+      <img src="Screenshot/user_registration.png" width=280 />
     </td>
     <td>
-      <img src="Screenshot/Client Registration.png" width=450 />
+      <img src="Screenshot/client_registration.png" width=450 />
     </td>
     </tr>
 </table>
@@ -113,13 +113,13 @@ Login, Login Error, Forgot Password Screen.
 <th>User Data in JTable</th>
   <tr>
     <td>
-      <img src="Screenshot/Client Data.png" width=300 />
+      <img src="Screenshot/client_data.png" width=300 />
     </td>
     <td>
-      <img src="Screenshot/User Data.png" width=300 />
+      <img src="Screenshot/user_data.png" width=300 />
     </td>
     <td>
-      <img src="Screenshot/JTable.png" width=300 />
+      <img src="Screenshot/j_table.png" width=300 />
     </td>
   </tr>
 </table>
